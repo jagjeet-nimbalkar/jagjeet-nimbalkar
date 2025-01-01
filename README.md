@@ -1,6 +1,6 @@
 ![logo](https://github.com/jagjeet-nimbalkar/jagjeet-nimbalkar/blob/main/logo.png)
 <h1 align="center">Hi, I'm Jagjeet Nimbalkar</h1>
-<h3 align="center">A passionate mern developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" alt="coding" align="right" width="400" style="border-radius: 15px;">
 
 
